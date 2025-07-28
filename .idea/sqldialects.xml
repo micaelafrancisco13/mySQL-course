@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="SqlDialectMappings">
+    <file url="file://$PROJECT_DIR$/2) Selecting single table/1) SELECT statement.sql" dialect="MySQL" />
+    <file url="file://$PROJECT_DIR$/2) Selecting single table/10) ORDER BY clause.sql" dialect="MySQL" />
+    <file url="file://$PROJECT_DIR$/2) Selecting single table/11) LIMIT clause.sql" dialect="MySQL" />
+    <file url="file://$PROJECT_DIR$/2) Selecting single table/2.0) SELECT clause.sql" dialect="MySQL" />
+    <file url="file://$PROJECT_DIR$/2) Selecting single table/2.1) SELECT DISTINCT clause.sql" dialect="MySQL" />
+    <file url="file://$PROJECT_DIR$/2) Selecting single table/3) WHERE clause.sql" dialect="MySQL" />
+    <file url="file://$PROJECT_DIR$/2) Selecting single table/4) AND, OR _ NOT operator + exercise.sql" dialect="MySQL" />
+    <file url="file://$PROJECT_DIR$/2) Selecting single table/5) IN operator.sql" dialect="MySQL" />
+    <file url="file://$PROJECT_DIR$/2) Selecting single table/6) BETWEEN operator.sql" dialect="MySQL" />
+    <file url="file://$PROJECT_DIR$/2) Selecting single table/7) LIKE operator.sql" dialect="MySQL" />
+    <file url="file://$PROJECT_DIR$/2) Selecting single table/8) REGEXP operator.sql" dialect="MySQL" />
+    <file url="file://$PROJECT_DIR$/2) Selecting single table/9) IS NULL operator.sql" dialect="MySQL" />
+    <file url="file://$PROJECT_DIR$/2) Selecting single table/Exercises/Exercise 1 - SELECT clause.sql" dialect="MySQL" />
+    <file url="file://$PROJECT_DIR$/2) Selecting single table/Exercises/Exercise 2 - WHERE clause.sql" dialect="MySQL" />
+    <file url="file://$PROJECT_DIR$/2) Selecting single table/Exercises/Exercise 3 - IN operator.sql" dialect="MySQL" />
+    <file url="file://$PROJECT_DIR$/2) Selecting single table/Exercises/Exercise 4 - BETWEEN operator.sql" dialect="MySQL" />
+    <file url="file://$PROJECT_DIR$/2) Selecting single table/Exercises/Exercise 5 - LIKE operator.sql" dialect="MySQL" />
+    <file url="file://$PROJECT_DIR$/2) Selecting single table/Exercises/Exercise 6 - REGEXP operator.sql" dialect="MySQL" />
+    <file url="file://$PROJECT_DIR$/2) Selecting single table/Exercises/Exercise 7 - IS NULL operator.sql" dialect="MySQL" />
+    <file url="file://$PROJECT_DIR$/2) Selecting single table/Exercises/Exercise 8 - ORDER BY clause.sql" dialect="MySQL" />
+    <file url="file://$PROJECT_DIR$/2) Selecting single table/Exercises/Exercise 9 - LIMIT clause.sql" dialect="MySQL" />
+    <file url="file://$PROJECT_DIR$/3) Selecting multiple tables/1) INNER JOIN clause.sql" dialect="MySQL" />
+    <file url="file://$PROJECT_DIR$/3) Selecting multiple tables/10) USING clause.sql" dialect="MySQL" />
+    <file url="file://$PROJECT_DIR$/3) Selecting multiple tables/12) UNION operator.sql" dialect="MySQL" />
+    <file url="file://$PROJECT_DIR$/3) Selecting multiple tables/2) Joining across databases.sql" dialect="MySQL" />
+    <file url="file://$PROJECT_DIR$/3) Selecting multiple tables/3) Self join tables.sql" dialect="MySQL" />
+    <file url="file://$PROJECT_DIR$/3) Selecting multiple tables/4) Joining multiple tables.sql" dialect="MySQL" />
+    <file url="file://$PROJECT_DIR$/3) Selecting multiple tables/5) Compound join condition.sql" dialect="MySQL" />
+    <file url="file://$PROJECT_DIR$/3) Selecting multiple tables/6) Implicit join syntax.sql" dialect="MySQL" />
+    <file url="file://$PROJECT_DIR$/3) Selecting multiple tables/7) OUTER JOIN clause.sql" dialect="MySQL" />
+    <file url="file://$PROJECT_DIR$/3) Selecting multiple tables/8) Outer joins between multiple tables.sql" dialect="MySQL" />
+    <file url="file://$PROJECT_DIR$/3) Selecting multiple tables/9) Self outer joins.sql" dialect="MySQL" />
+    <file url="file://$PROJECT_DIR$/3) Selecting multiple tables/Exercises/Exercise 1 - INNER JOIN clause.sql" dialect="MySQL" />
+    <file url="file://$PROJECT_DIR$/3) Selecting multiple tables/Exercises/Exercise 2 - Joining multiple tables.sql" dialect="MySQL" />
+    <file url="file://$PROJECT_DIR$/3) Selecting multiple tables/Exercises/Exercise 3 - OUTER JOIN clause.sql" dialect="MySQL" />
+    <file url="file://$PROJECT_DIR$/3) Selecting multiple tables/Exercises/Exercise 4 - Outer joins between multiple tables.sql" dialect="MySQL" />
+    <file url="file://$PROJECT_DIR$/3) Selecting multiple tables/Exercises/Exercise 5 - USING clause.sql" dialect="MySQL" />
+    <file url="file://$PROJECT_DIR$/3) Selecting multiple tables/Exercises/Exercise 6 - CROSS JOIN clause.sql" dialect="MySQL" />
+    <file url="file://$PROJECT_DIR$/3) Selecting multiple tables/Exercises/Exercise 7 - UNION operator.sql" dialect="MySQL" />
+    <file url="file://$PROJECT_DIR$/4) Inserting, updating, and deleting data/1) Inserting a single row.sql" dialect="MySQL" />
+    <file url="file://$PROJECT_DIR$/4) Inserting, updating, and deleting data/2) Inserting multiple rows.sql" dialect="MySQL" />
+    <file url="file://$PROJECT_DIR$/4) Inserting, updating, and deleting data/3) Inserting hierarchical rows.sql" dialect="MySQL" />
+    <file url="file://$PROJECT_DIR$/4) Inserting, updating, and deleting data/4) Creating a copy of a table.sql" dialect="MySQL" />
+    <file url="file://$PROJECT_DIR$/4) Inserting, updating, and deleting data/5) Updating a single row.sql" dialect="MySQL" />
+    <file url="file://$PROJECT_DIR$/4) Inserting, updating, and deleting data/6) Updating multiple records + exercise.sql" dialect="MySQL" />
+    <file url="file://$PROJECT_DIR$/4) Inserting, updating, and deleting data/7) Using sub-queries in updates.sql" dialect="MySQL" />
+    <file url="file://$PROJECT_DIR$/4) Inserting, updating, and deleting data/8) Deleting rows.sql" dialect="MySQL" />
+    <file url="file://$PROJECT_DIR$/4) Inserting, updating, and deleting data/Exercises/1) Inserting multiple rows.sql" dialect="MySQL" />
+    <file url="file://$PROJECT_DIR$/4) Inserting, updating, and deleting data/Exercises/2) Creating a copy of a table.sql" dialect="MySQL" />
+    <file url="file://$PROJECT_DIR$/4) Inserting, updating, and deleting data/Exercises/3) Using sub-queries in updates.sql" dialect="MySQL" />
+    <file url="file://$PROJECT_DIR$/5) Summarizing data/1) Aggregate functions (1).sql" dialect="MySQL" />
+    <file url="file://$PROJECT_DIR$/5) Summarizing data/2) Aggregate functions (2).sql" dialect="MySQL" />
+    <file url="file://$PROJECT_DIR$/5) Summarizing data/3) GROUP BY clause.sql" dialect="MySQL" />
+    <file url="file://$PROJECT_DIR$/5) Summarizing data/4) GROUP BY multiple columns.sql" dialect="MySQL" />
+    <file url="file://$PROJECT_DIR$/5) Summarizing data/5) HAVING clause.sql" dialect="MySQL" />
+    <file url="file://$PROJECT_DIR$/5) Summarizing data/6) WITH ROLLUP clause.sql" dialect="MySQL" />
+    <file url="file://$PROJECT_DIR$/5) Summarizing data/Exercises/1) Aggregate functions.sql" dialect="MySQL" />
+    <file url="file://$PROJECT_DIR$/5) Summarizing data/Exercises/2) GROUP BY clause.sql" dialect="MySQL" />
+  </component>
+</project>
